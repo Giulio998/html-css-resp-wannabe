@@ -12,6 +12,10 @@
         width: 100%;
     }
 
+    .lessons p:first-child{
+        padding-bottom: 5rem;
+    }
+
     .row {
         flex-direction: column;
     }
@@ -55,6 +59,10 @@
         margin-bottom: 3rem;
     }
 
+    .why-us li{
+        margin-bottom: 0;
+    }
+
     p {
         padding: 20px;
         font-size: 1.2em;
@@ -73,8 +81,5 @@
         font-size: 3rem;
     }
 
-    .steps p{
-        margin-bottom: 3.3rem;
-    }
-
+   
 }
